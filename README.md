@@ -1,4 +1,14 @@
-# instalike
-This script has been used for automating the activity on your profile in order to gain attention by real users possibly resulting in follow and likes
+# InstaLike
+This script has been used for automating the activity of your Instagram profile in order to gain attention by real users and make them follow your profile and like your contents
 
-## Test
+## How it works (psychologically)
+Every human being needs attention! Especially Instagram Users want attention for their contents.
+So if your profile is guided towards the same topic as the 'victim' and you will like it, they will see that as an act of appreciation. Because they want to get you as a follower, they start following you and liking one or two pictures, in hope you will follow them back and become a loyal fan of him/her. BUT you won't, and because if you follow back the number of people you follow will exceed the number of people that are following you.
+
+Remember: People you follow < People Following you ! This will raise your level of popularity
+
+## How it works (technically)
+This script has to be setup as a cronjob and filled with five hashtags that are likely to correspond with your profile theme. Then it will lookup the latest photos with those hashtags and like them automatically.
+
+## NOTE
+Due to some changes regarding the Instagram API Terms of use this Script is not working anymore. Any modified used with the same intent will probably result in getting your account banned. Use and modification at your own risk.
