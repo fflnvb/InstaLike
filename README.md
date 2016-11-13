@@ -1,3 +1,4 @@
 # instagram
-This script is my first draft of an automated liking function on Instagram.
-Further instructions will be posted soon.
+This script has been used for automating the activity on your profile in order to gain attention by real users possibly resulting in follow and likes
+
+##Test
