@@ -1,5 +1,5 @@
 <?php
-date_default_timezone_set('America/North_Dakota/Center');
+date_default_timezone_set('UTC');
 $tokens = Array(
     "token1", //add your 5 instagram tokens here
     "token2",
