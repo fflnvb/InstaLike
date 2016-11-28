@@ -17,7 +17,7 @@ $tag = Array(
     );
 $i = 0;
 foreach ($tokens as $token){
-$data = file_get_contents('https://api.instagram.com/v1/tags/'.$tag[$i].'/media/recent?access_token=1364533593.e109100.5afb45f2df8f4d1cb0c463240a183780');
+$data = file_get_contents('https://api.instagram.com/v1/tags/'.$tag[$i].'/media/recent?access_token='.$token);
 $images = json_decode($data, true);
 $lastImage = $images['data'][0]['id'];
 //set POST variables
