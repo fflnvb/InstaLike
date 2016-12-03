@@ -13,7 +13,7 @@ $tag = Array(
     "hashtag3",
     "hashtag4",
     "hashtag5",
-    
+
     );
 $i = 0;
 foreach ($tokens as $token){
@@ -30,7 +30,7 @@ rtrim($fields_string, '&');
 //open connection
 $ch = curl_init();
 
-//set the url, number of POST vars, POST data
+//prepare the like command
 curl_setopt($ch,CURLOPT_URL, $url);
 curl_setopt($ch,CURLOPT_POST, 1);
 curl_setopt($ch,CURLOPT_POSTFIELDS, $fields_string);
