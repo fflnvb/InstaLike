@@ -12,6 +12,3 @@ This script has to be setup as a cronjob and filled with five hashtags that are 
 
 ## NOTE
 Due to some changes regarding the Instagram API Terms of use this Script is not working anymore. Any modified used with the same intent will probably result in getting your account banned. Use and modification at your own risk.
-
-##One last wish
-I am a 19 year old student, who graduates from High School in 2017. I worked the first half of 2016 at McDonald's and am now studying all the time. If you use my application and it works it makes me happy. If you like what I did please consider buying me a Hamburger (1€). Link will be added once I got this project running well.
