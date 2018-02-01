@@ -1,10 +1,10 @@
-# Instalike
+# InstaLike
 
 **Note:** *Instagram switched their API model for non-approved developers from request-limitations into a sandbox-mode, which made this script useless for them. Therefore the maintenance for this code has been discontinued and is probably deprecated. However, the code and the system itself is very interesting to share.*
 
-## What is Instalike:
+## What is InstaLike:
 
-Instalike is a simple php script, written by a noob, which ran every 5 minutes as a cronjob and looked up the newest picture being uploaded of five given hashtags. Each of these photos were being liked.
+InstaLike is a simple php script, written by a noob, which ran every 5 minutes as a cronjob and looked up the newest picture being uploaded of five given hashtags. Each of these photos were being liked.
 
 All I needed was:
 - 5 apps registered in the Instagram API platform with the limitation of 20 requests per hour
