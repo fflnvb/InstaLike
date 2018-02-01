@@ -7,10 +7,10 @@
 Instalike is a simple php script, written by a noob, which ran every 5 minutes as a cronjob and looked up the newest 5 pictures being uploaded of five given hashtags. Each of these photos were being liked.
 
 All I needed was:
-	- 5 apps registered in the Instagram API platform with the limitation of 20 requests per hour
-	- 1 Instagram account which should get the followers
-	- 5 5okens that were given by connecting the account with the 5 apps
-	- 5 Hashtags which are corresponding with the photos of the Instagram account
+- 5 apps registered in the Instagram API platform with the limitation of 20 requests per hour
+- 1 Instagram account which should get the followers
+- 5 5okens that were given by connecting the account with the 5 apps
+- 5 Hashtags which are corresponding with the photos of the Instagram account
 
 ## So, you like pictures automatically with that script, but how do I get followers?
 
