@@ -1,6 +1,6 @@
 # InstaLike
 
-**Note:** *Instagram switched their API model for non-approved developers from request-limitations into a sandbox-mode, which made this script useless for them. Therefore the maintenance for this code has been discontinued and is probably deprecated. However, the code and the system itself is very interesting to share.*
+**Note:** *Instagram switched their API model for non-approved developers from request-limitations into a sandbox-mode, which made this script useless for normal people like you and me. Therefore the maintenance has been discontinued and the script is probably deprecated. However, the code and the system itself is very interesting to share.*
 
 ## What is InstaLike:
 
