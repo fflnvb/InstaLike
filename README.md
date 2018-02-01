@@ -14,7 +14,7 @@ All I needed was:
 
 ## So, you like pictures automatically with that script, but how do I get followers?
 
-Psychology is doing the rest. People who see someone liking their photo are getting your attention and might either be interested in your account regarding the content or just expect a follow-back and then hit the "follow"-button.
+Psychology is doing the rest. People who see you liking their photo are giving you their attention and might either be interested in your account regarding the content or just expect a follow-back and then hit the "follow"-button.
 
 ## Did it really work?
 Just try it yourself, the script is simply replacing human interaction. Reenacting the performance of the script will probably give you the same result, but it's a waste of valuable time. I first did it on my own and came up with the idea to automate it. It was amazing to wake up in the morning and see that I gained up to 60-100 Followers within a night.
